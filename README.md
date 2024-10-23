@@ -8,7 +8,7 @@ L'objectif de ce tutoriel est d'apprendre à utiliser les widgets Cupertino et M
 
 Je vais réaliser une application de suivi des prix des crypto-monnaies. À la fin de ce module, je pourrai surveiller mes investissements en bitcoin où que je sois !
 
-## Ce que je vais apprendre
+## Ce que j'ai appris
 
 - Utiliser le widget `DropdownButton` de Material Design.
 - Boucler dans le code en utilisant les boucles `for` et `for-in` de Dart.
